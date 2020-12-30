@@ -1,4 +1,5 @@
-# component
+# common-component-inno
+可以用来发布到npm的公共组件项目样例
 
 ## Project setup
 ```
