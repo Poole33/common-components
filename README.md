@@ -1,4 +1,4 @@
-# common-component-inno
+# common-component
 ## 介绍
 1. 可以用来发布到npm的公共组件项目样例
 2. 减去自己研究配置，可使用此项目直接进行项目公共组件的开发
