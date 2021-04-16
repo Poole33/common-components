@@ -1,11 +1,12 @@
+# 描述
+该项目适用于自己开发组件，并把自己的项目打包发布到npm服务器的简易demo，可直接拉取下来进行开发，里面给出了一个简单的demo方便理解。
+> 若只想使用demo进行开发，可直接从[Demo使用](#demo使用)进行观看
+
 # 参考方案
 [博客](https://www.cnblogs.com/wisewrong/p/10186611.html)  
 [ant-design-vue](https://github.com/vueComponent/ant-design-vue)
 
 # 从零搭建流程
-
-> 若只想使用demo进行开发，可直接从[Demo使用](#demo使用)进行观看
-
 项目使用的是**Vue**开发，所以先用**vue-cli**搭建一个新项目。
 
 创建成功之后：
